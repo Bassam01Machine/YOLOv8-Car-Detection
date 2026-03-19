@@ -28,6 +28,6 @@ Dataset used in this project:
 -------------------------------
 https://www.kaggle.com/datasets/sshikamaru/car-object-detection
 
-You can view and run the notebook on Kaggle:
+My notebook on Kaggle:
 ---------------------------------------------
 https://www.kaggle.com/code/bassammoustafa/car-object-detection
